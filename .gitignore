@@ -108,6 +108,13 @@ celerybeat.pid
 
 # Environments
 .env
+envir/
+envi/
+django2/
+django/
+django3/
+django4/
+django5/
 .venv
 env/
 venv/
